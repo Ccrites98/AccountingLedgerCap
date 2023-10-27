@@ -54,6 +54,7 @@ Use the Report Menu to get reports on transactions in a variety of formats.
 
 Exit again by navigating back to the Main Menu and using the provided exit key.
 
+----------------------------------------------------------------------------------
 Acknowledgements:
 
 For learning how to build the ReadMe:
@@ -67,6 +68,7 @@ https://stackoverflow.com/questions/22792139/how-do-i-generate-reports-in-java
 
 A refresher on building Array Lists:
 https://www.w3schools.com/java/java_arraylist.asp
+
 ----------------------------------------------------------------------------------
 Author:
 Christian Crites
