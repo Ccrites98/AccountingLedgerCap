@@ -1,4 +1,4 @@
-AccountingLedger
+AccountingLedger:
 This Accounting Ledger is my Capstone Java Development project designed to manage financial transactions and provide a basic ledger for personal or small-scale accounting purposes.
 This ledger allows one to record and track transactions, categorize them, and calculate balances. Please note that the project is currently not fully functional and is still in development.
 
